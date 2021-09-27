@@ -1,3 +1,9 @@
+# Changelog
+
+- Typescript
+- Upgrade next to 11.1.2
+- Integrate Tailwindcss
+
 # Shopify App Node
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
@@ -11,6 +17,12 @@ Using the [Shopify-App-CLI](https://github.com/Shopify/shopify-app-cli) run:
 
 ```sh
 ~/ $ shopify node create -n APP_NAME
+```
+
+Start project:
+
+```sh
+~/ $ shopify node serve
 ```
 
 Or, fork and clone repo

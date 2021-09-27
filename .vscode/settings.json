@@ -1,0 +1,15 @@
+{
+  "telemetry.enableTelemetry": false,
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": true,
+  "files.exclude": {
+    "node_modules": true,
+    "**/dist": true,
+    "out": true,
+    ".next": true,
+    "yarn.lock": false,
+    "yarn-error.log": true
+  },
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": true
+}
